@@ -205,7 +205,7 @@
     "year": 2020,
     "category": "covid",
     "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
-    "image": "http://sstirling.github.io/graphics/img/covid-19-case-tracker-2020-fl.png",
+    "image": "http://sstirling.github.io/graphics/img/covid-19-case-tracker-2020.png",
     "interactive": "https://public.flourish.studio/visualisation/1509635/",
     "alt": "Covid-19 case tracker map"
   },
