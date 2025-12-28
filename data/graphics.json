@@ -150,6 +150,16 @@
     "alt": "Jones Road Fire before and after"
   },
   {
+    "id": "fireworks-search-2022-fl",
+    "title": "Search for fireworks",
+    "year": 2022,
+    "category": "recreation",
+    "tags": ["fireworks", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/fireworks-search-2022-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/10379175/",
+    "alt": "Search for fireworks"
+  },
+  {
     "id": "regional-vaccine-tracker-2021-fl",
     "title": "Regional vaccine tracker",
     "year": 2021,
@@ -218,6 +228,16 @@
     "image": "http://sstirling.github.io/graphics/img/covid-19-local-services-tracker-2020.png",
     "interactive": "https://public.flourish.studio/visualisation/1524175/",
     "alt": "Covid-19 local services tracker"
+  },
+  {
+    "id": "Jimmys-watering-hole-fire-2023-fl",
+    "title": "Jimmy's Watering Hole Fire before/after",
+    "year": 2023,
+    "category": "wildfire",
+    "tags": ["jimmys-watering-hole-fire", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/Jimmys-watering-hole-fire-2023-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/13403958/",
+    "alt": "Jimmy's Watering Hole Fire before/after"
   },
   {
     "id": "property-tax-changes-2023-fl",
@@ -528,5 +548,35 @@
     "image": "http://sstirling.github.io/graphics/img/snowmap-dec-2025-inq.png",
     "interactive": "https://www.datawrapper.de/_/Fjtvf/?v=2",
     "alt": "Regional snowfall totals"
+  },
+  {
+    "id": "detentions-nj-pa-us-2025-inq",
+    "title": "ICE detentions across Pa., N.J.",
+    "year": 2025,
+    "category": "immigration",
+    "tags": ["ICE", "detention", "pennsylvania", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/detentions-nj-pa-us-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/A72xY/",
+    "alt": "ICE detentions across Pa., N.J."
+  },
+  {
+    "id": "philly-shifts-to-right-2024",
+    "title": "Philly shifts right",
+    "year": 2024,
+    "category": "politics",
+    "tags": ["philadelphia", "pennsylvania", "trump", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/philly-shifts-to-right-2024.png",
+    "interactive": "https://www.datawrapper.de/_/wmLWz/?v=8",
+    "alt": "Philly shifts right"
+  },
+  {
+    "id": "snowfall-totals-philly-2024-inq",
+    "title": "Snowfall in Philly region",
+    "year": 2024,
+    "category": "weather",
+    "tags": ["snow", "new-jersey-pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/snowfall-totals-philly-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/NVFti/?v=5",
+    "alt": "Snowfall in Philly region"
   }
 ]

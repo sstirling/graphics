@@ -1,3 +1,5 @@
+// assets/js/app.js
+
 let ALL = [];
 
 const grid = document.getElementById("grid");
@@ -21,12 +23,20 @@ function targetUrl(item) {
   return item.interactive || item.image;
 }
 
+// Fisher–Yates shuffle (in-place)
+function shuffleInPlace(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 function render() {
   const query = q.value.trim();
 
-  const items = ALL
-    .filter(d => matches(d, query))
-    .sort((a, b) => (b.year || 0) - (a.year || 0));
+  // Maintain the randomized order; just filter it.
+  const items = ALL.filter(d => matches(d, query));
 
   grid.innerHTML = "";
 
@@ -63,6 +73,10 @@ function render() {
 async function init() {
   const res = await fetch("data/graphics.json");
   ALL = await res.json();
+
+  // randomize tile order once per page load
+  shuffleInPlace(ALL);
+
   render();
 }
 
