@@ -1,0 +1,552 @@
+[
+  {
+    "id": "mlb-payroll-2025-ss",
+    "title": "WS winners with below avg. salary",
+    "year": 2025,
+    "category": "sports",
+    "tags": ["mlb", "salaries"],
+    "image": "http://sstirling.github.io/graphics/img/mlb-payroll-2025-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/pS5Sh/1/",
+    "alt": "WS winners with below avg. salary"
+  },
+  {
+    "id": "snow-table-2025-ss",
+    "title": "Snowfall forecasts in a table format",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["snow"],
+    "image": "http://sstirling.github.io/graphics/img/snow-table-2025-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/W1865/1/",
+    "alt": "Snowfall forecasts in a table format"
+  },
+  {
+    "id": "garden-table-2025-ss",
+    "title": "Tracking hyperlocal flora",
+    "year": 2025,
+    "category": "gardening",
+    "tags": ["new-jersey", "tomatoes"],
+    "image": "http://sstirling.github.io/graphics/img/garden-table-2025-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/iK6Jk/7/",
+    "alt": "Tracking hyperlocal flora"
+  },
+  {
+    "id": "devils-100-pt-2024-ss",
+    "title": "Devils hopium tracker",
+    "year": 2024,
+    "category": "sports",
+    "tags": ["new-jersey", "devils"],
+    "image": "http://sstirling.github.io/graphics/img/devils-100-pt-2024-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/oEm4w/2/",
+    "alt": "Devils hopium tracker"
+  },
+  {
+    "id": "extreme-heat-2025-ss",
+    "title": "Extreme heat forecast for multiple locations",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["new-jersey", "pennsylvania", "heat"],
+    "image": "http://sstirling.github.io/graphics/img/extreme-heat-2025-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/hq6nV/1/",
+    "alt": "Extreme heat forecast for multiple locations"
+  },
+  {
+    "id": "gritty-rankings-2024-ss",
+    "title": "Ranking NHL players by 'grit'",
+    "year": 2024,
+    "category": "sports",
+    "tags": ["pennsylvania", "nhl", "flyers"],
+    "image": "http://sstirling.github.io/graphics/img/gritty-rankings-2024-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/rXe8M/1/",
+    "alt": "Ranking NHL players by 'grit'"
+  },
+  {
+    "id": "single-season-per-2024-ss",
+    "title": "Joel Embiid was playing well in 2024",
+    "year": 2024,
+    "category": "sports",
+    "tags": ["pennsylvania", "nba", "76ers"],
+    "image": "http://sstirling.github.io/graphics/img/single-season-per-2024-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/CDoO4/1/",
+    "alt": "Joel Embiid was playing well in 2024"
+  },
+  {
+    "id": "school-taxes-2021-ss",
+    "title": "How school taxes have changed in NJ",
+    "year": 2021,
+    "category": "taxes",
+    "tags": ["taxes", "new-jersey", "budgets"],
+    "image": "http://sstirling.github.io/graphics/img/school-taxes-2021-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/ecNjN/2/",
+    "alt": "How school taxes have changed in NJ"
+  },
+  {
+    "id": "bias-incidents-nj-2023-cv",
+    "title": "Bias incidents in NJ",
+    "year": 2023,
+    "category": "crime",
+    "tags": ["bias", "racism", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/bias-incidents-nj-2023-cv.png",
+    "interactive": "https://www.datawrapper.de/_/IUu1e/",
+    "alt": "Bias incidents in NJ"
+  },
+  {
+    "id": "hourly-air-quality-2023-app",
+    "title": "Hourly air quality charts",
+    "year": 2023,
+    "category": "weather",
+    "tags": ["air-quality", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/hourly-air-quality-2023-app.png",
+    "interactive": "https://datawrapper.dwcdn.net/ZR2Pg/18/",
+    "alt": "Hourly air quality charts"
+  },
+  {
+    "id": "home-sales-monoc-2023-app",
+    "title": "Home sales table",
+    "year": 2023,
+    "category": "real estate",
+    "tags": ["home-sales", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/home-sales-monoc-2023-app.png",
+    "interactive": "https://datawrapper.dwcdn.net/cJkg5/2/",
+    "alt": "Home sales table"
+  },
+  {
+    "id": "school-aid-gains-loss-2023-app",
+    "title": "Analyzing school aid data",
+    "year": 2023,
+    "category": "education",
+    "tags": ["school-aid", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/school-aid-gains-loss-2023-app.png",
+    "interactive": "https://datawrapper.dwcdn.net/SAxiQ/2/",
+    "alt": "Analyzing school aid data"
+  },
+  {
+    "id": "school-aid-changes-table-2023-app",
+    "title": "School aid search",
+    "year": 2023,
+    "category": "education",
+    "tags": ["school-aid", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/school-aid-changes-table-2023-app.png",
+    "interactive": "https://datawrapper.dwcdn.net/fc3om/1/",
+    "alt": "School aid search"
+  },
+  {
+    "id": "terminated-grants-philly-2025-fl",
+    "title": "Terminated grants in Trump era",
+    "year": 2025,
+    "category": "science",
+    "tags": ["grants", "trump", "pennsylvania", "philadelphia"],
+    "image": "http://sstirling.github.io/graphics/img/terminated-grants-philly-2025-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/23819096/",
+    "alt": "Terminated grants in Trump era"
+  },
+  {
+    "id": "jones-road-fire-2023-fl",
+    "title": "Jones Road Fire before and after",
+    "year": 2023,
+    "category": "wildfire",
+    "tags": ["jones-road-fire", "new-jersey", "wildfire"],
+    "image": "http://sstirling.github.io/graphics/img/jones-road-fire-2023-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/22930762/",
+    "alt": "Jones Road Fire before and after"
+  },
+  {
+    "id": "fireworks-search-2022-fl",
+    "title": "Search for fireworks",
+    "year": 2022,
+    "category": "recreation",
+    "tags": ["fireworks", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/fireworks-search-2022-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/10379175/",
+    "alt": "Search for fireworks"
+  },
+  {
+    "id": "regional-vaccine-tracker-2021-fl",
+    "title": "Regional vaccine tracker",
+    "year": 2021,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/regional-vaccine-tracker-2021-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/4847265/",
+    "alt": "Regional vaccine tracker"
+  },
+  {
+    "id": "covid-hospitalizations-2021",
+    "title": "Covid-19 hospitalizations",
+    "year": 2021,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/covid-hospitalizations-2021.png",
+    "interactive": "https://public.flourish.studio/visualisation/4069002/",
+    "alt": "Covid-19 hospitalizations"
+  },
+  {
+    "id": "covid-deaths-2021-fl",
+    "title": "Covid-19 deaths",
+    "year": 2021,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/covid-deaths-2021-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/4069002/",
+    "alt": "Covid-19 deaths"
+  },
+  {
+    "id": "covid-hospitalizations-pct-peak-2021-fl",
+    "title": "Covid-19 hospitalizations",
+    "year": 2021,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/covid-hospitalizations-pct-peak-2021-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/4156537/",
+    "alt": "Covid-19 hospitalizations"
+  },
+  {
+    "id": "covid-case-intensity-2021-fl",
+    "title": "Covid-19 case intensity",
+    "year": 2021,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/covid-case-intensity-2021-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/3976478/",
+    "alt": "Covid-19 case intensity"
+  },
+  {
+    "id": "covid-19-case-tracker-2020-fl",
+    "title": "Covid-19 case tracker map",
+    "year": 2020,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/covid-19-case-tracker-2020-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/1509635/",
+    "alt": "Covid-19 case tracker map"
+  },
+  {
+    "id": "covid-19-local-services-tracker-2020",
+    "title": "Covid-19 local services tracker",
+    "year": 2020,
+    "category": "covid",
+    "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/covid-19-local-services-tracker-2020.png",
+    "interactive": "https://public.flourish.studio/visualisation/1524175/",
+    "alt": "Covid-19 local services tracker"
+  },
+  {
+    "id": "Jimmys-watering-hole-fire-2023-fl",
+    "title": "Jimmy's Watering Hole Fire before/after",
+    "year": 2023,
+    "category": "wildfire",
+    "tags": ["jimmys-watering-hole-fire", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/Jimmys-watering-hole-fire-2023-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/13403958/",
+    "alt": "Jimmy's Watering Hole Fire before/after"
+  },
+  {
+    "id": "property-tax-changes-2023-fl",
+    "title": "Property tax changes in NJ",
+    "year": 2023,
+    "category": "taxes",
+    "tags": ["taxes", "new-jersey", "budgets"],
+    "image": "http://sstirling.github.io/graphics/img/property-tax-changes-2023-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/13403958/",
+    "alt": "Property tax changes in NJ"
+  },
+  {
+    "id": "mullica-river-fire-2022",
+    "title": "Mullica River Fire before/after",
+    "year": 2022,
+    "category": "wildfire",
+    "tags": ["wildfire", "mullica-river-fire", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/mullica-river-fire-2022.png",
+    "interactive": "https://public.flourish.studio/visualisation/13403958/",
+    "alt": "Mullica River Fire before/after"
+  },
+  {
+    "id": "enrollment-drops-2022-fl",
+    "title": "Enrollment drops in NJ schools",
+    "year": 2022,
+    "category": "education",
+    "tags": ["school-enrollment- new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/enrollment-drops-2022-fl.png",
+    "interactive": "https://public.flourish.studio/visualisation/10449330/",
+    "alt": "Enrollment drops in NJ schools"
+  },
+  {
+    "id": "nj-crime-rates-2020-fl-njam",
+    "title": "NJ Crime rates over time",
+    "year": 2020,
+    "category": "crime",
+    "tags": ["crime-rates", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/nj-crime-rates-2020-fl-njam.png",
+    "interactive": "https://public.flourish.studio/visualisation/4445659/",
+    "alt": "NJ Crime rates over time"
+  },
+  {
+    "id": "drug-overdose-deaths-nj-2020-fl-njam",
+    "title": "Drug overdose deaths in NJ",
+    "year": 2020,
+    "category": "substance abuse",
+    "tags": ["heroin", "fentanyl", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/drug-overdose-deaths-nj-2020-fl-njam.png",
+    "interactive": "https://public.flourish.studio/visualisation/81019/",
+    "alt": "Drug overdose deaths in NJ"
+  },
+  {
+    "id": "nj-misery-2019-fl-njam",
+    "title": "NJT misery",
+    "year": 2019,
+    "category": "transportation",
+    "tags": ["public-transit", "nj-transit", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/nj-misery-2019-fl-njam.png",
+    "interactive": "https://public.flourish.studio/visualisation/81019/",
+    "alt": "NJT misery"
+  },
+  {
+    "id": "nj-births-deaths-2018-fl-njam",
+    "title": "Births and deaths in NJ",
+    "year": 2018,
+    "category": "health",
+    "tags": ["births", "deaths", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/nj-births-deaths-2018-fl-njam.png",
+    "interactive": "https://public.flourish.studio/visualisation/81019/",
+    "alt": "Births and deaths in NJ"
+  },
+  {
+    "id": "pa-abortions-trump-2024-inq",
+    "title": "Abortion rates in Pa. after Roe v. Wade overturn",
+    "year": 2024,
+    "category": "health",
+    "tags": ["abortion", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/pa-abortions-trump-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/Vx3Ih/?v=5",
+    "alt": "Abortion rates in Pa. after Roe v. Wade overturn"
+  },
+  {
+    "id": "international-travel-spike-tourism-2025-inq",
+    "title": "Tourism in Philly",
+    "year": 2025,
+    "category": "recreation",
+    "tags": ["tourism", "philadelphia", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/international-travel-spike-tourism-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/lix5A/?v=7",
+    "alt": "Tourism in Philly"
+  },
+  {
+    "id": "air-traffic-control-staffing-2025-inq",
+    "title": "Air traffic control staffing shortages in Pa.",
+    "year": 2025,
+    "category": "transportation",
+    "tags": ["air-traffic-controllers", "air-travel", "pennsylvania", "philadelphia"],
+    "image": "http://sstirling.github.io/graphics/img/air-traffic-control-staffing-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/GVsWB/?v=4",
+    "alt": "Air traffic control staffing shortages in Pa."
+  },
+  {
+    "id": "phlight-status-2025-inq",
+    "title": "Live PHL delays and cancellations",
+    "year": 2025,
+    "category": "transportation",
+    "tags": ["air-travel", "philadelphia", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/phlight-status-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/44NgE/?v=12",
+    "alt": "Live PHL delays and cancellations"
+  },
+  {
+    "id": "weekly-liquor-sales-state-college-inq",
+    "title": "Weekly liquor sales in State College, Pa.",
+    "year": 2025,
+    "category": "food and drink",
+    "tags": ["wine", "liquor", "retail-sales", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/weekly-liquor-sales-state-college-inq.png",
+    "interactive": "https://www.datawrapper.de/_/44NgE/?v=12",
+    "alt": "Weekly liquor sales in State College, Pa."
+  },
+  {
+    "id": "top-wines-by-type-pa-2025-inq",
+    "title": "Top Wines by Type in Pa",
+    "year": 2025,
+    "category": "food and drink",
+    "tags": ["wine", "liquor", "retail-sales", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/top-wines-by-type-pa-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/44NgE/?v=12",
+    "alt": "Top Wines by Type in Pa"
+  },
+  {
+    "id": "liquor-wine-sales-start-of-year",
+    "title": "Liquor and wine sales drop at start of year",
+    "year": 2025,
+    "category": "food and drink",
+    "tags": ["wine", "liquor", "retail-sales", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/liquor-wine-sales-start-of-year.png",
+    "interactive": "https://www.datawrapper.de/_/OnVm4/?v=2",
+    "alt": "Liquor and wine sales drop at start of year"
+  },
+  {
+    "id": "fireball-cinnamon-whiskey-pa-2025-inq",
+    "title": "Fireball sales by municipality",
+    "year": 2025,
+    "category": "food and drink",
+    "tags": ["wine", "liquor", "retail-sales", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/fireball-cinnamon-whiskey-pa-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/v42IM/",
+    "alt": "Fireball sales by municipality"
+  },
+  {
+    "id": "arsons-by-month-philadelphia-2024-inq",
+    "title": "Arsons in Philly by month",
+    "year": 2024,
+    "category": "crime",
+    "tags": ["arson", "philadelphia", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/arsons-by-month-philadelphia-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/K41BH/?v=3",
+    "alt": "Arsons in Philly by month"
+  },
+  {
+    "id": "water-flow-mullica-river-2025-inq",
+    "title": "Water flow tracking",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["drought", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/water-flow-mullica-river-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/DLAEo/?v=12",
+    "alt": "Water flow tracking"
+  },
+  {
+    "id": "pssa-scores-pa-2024-inq",
+    "title": "PSSA scores over time",
+    "year": 2024,
+    "category": "education",
+    "tags": ["PSSA", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/pssa-scores-pa-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/fLkjA/?v=2",
+    "alt": "PSSA scores over time"
+  },
+  {
+    "id": "trump-terminated-grants-philly-region-2025-inq",
+    "title": "Terminated grants in Philly region",
+    "year": 2025,
+    "category": "science",
+    "tags": ["grants", "trump", "pennsylvania", "philadelphia"],
+    "image": "http://sstirling.github.io/graphics/img/trump-terminated-grants-philly-region-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/2QOKG/?v=10",
+    "alt": "Terminated grants in Philly region"
+  },
+  {
+    "id": "delayed-terminated-grants-2025-inq",
+    "title": "Delayed/Terminated grants by category",
+    "year": 2025,
+    "category": "science",
+    "tags": ["grants", "trump", "pennsylvania", "philadelphia"],
+    "image": "http://sstirling.github.io/graphics/img/delayed-terminated-grants-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/6rSJU/?v=9",
+    "alt": "Delayed/Terminated grants by category"
+  },
+  {
+    "id": "immigrants-criminal-charges-2025-inq",
+    "title": "Immigrants with criminal charges",
+    "year": 2025,
+    "category": "immigration",
+    "tags": ["ICE", "detention", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/immigrants-criminal-charges-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/mq58W/?v=4",
+    "alt": "Immigrants with criminal charges"
+  },
+  {
+    "id": "philly-immigration-court-asylum-denials-2025-inq",
+    "title": "Asylum denials rising in Philly",
+    "year": 2025,
+    "category": "immigration",
+    "tags": ["ICE", "asylum", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/philly-immigration-court-asylum-denials-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/rRbmy/?v=6",
+    "alt": "Asylum denials rising in Philly"
+  },
+  {
+    "id": "pa-nj-grant-tracker-2025-inq",
+    "title": "Terminated grant tracker",
+    "year": 2025,
+    "category": "science",
+    "tags": ["grants", "trump", "pennsylvania", "new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/pa-nj-grant-tracker-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/QvNmh/?v=11",
+    "alt": "Terminated grant tracker"
+  },
+  {
+    "id": "pa-voter-registrations-2024",
+    "title": "Voter registrations in Pa.",
+    "year": 2024,
+    "category": "politics",
+    "tags": ["voter-registration", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/pa-voter-registrations-2024.png",
+    "interactive": "https://www.datawrapper.de/_/2NojZ/?v=7",
+    "alt": "Voter registrations in Pa."
+  },
+  {
+    "id": "pa-voter-registration-summer-2024-inq",
+    "title": "Dem vs. GOP voter registrations",
+    "year": 2024,
+    "category": "politics",
+    "tags": ["voter-registration", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/pa-voter-registration-summer-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/muu24/?v=3",
+    "alt": "Dem vs. GOP voter registrations"
+  },
+  {
+    "id": "flyers-griity-history-2024-inq",
+    "title": "Flyers 'grit' rating",
+    "year": 2024,
+    "category": "sports",
+    "tags": ["nhl", "flyers", "philadelphia"],
+    "image": "http://sstirling.github.io/graphics/img/flyers-griity-history-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/osarT/?v=8",
+    "alt": "Flyers 'grit' rating"
+  },
+  {
+    "id": "eagles-combine-metrics-2024-inq",
+    "title": "Eagles combine metrics",
+    "year": 2024,
+    "category": "sports",
+    "tags": ["nfl", "eagles", "philadelphia"],
+    "image": "http://sstirling.github.io/graphics/img/eagles-combine-metrics-2024-inq.png",
+    "interactive": "https://www.datawrapper.de/_/mTXwJ/",
+    "alt": "Eagles combine metrics"
+  },
+  {
+    "id": "candian-tourism-drop-2025-inq",
+    "title": "International tourism to Philly",
+    "year": 2025,
+    "category": "recreation",
+    "tags": ["tourism", "philadelphia", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/candian-tourism-drop-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/xQ4Fj/?v=5",
+    "alt": "International tourism to Philly"
+  },
+  {
+    "id": "mugginess-philly-2025-inq",
+    "title": "Live mugginess charts",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["heat", "humidity", "philadelphia", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/mugginess-philly-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/ki6oB/?v=16",
+    "alt": "Live mugginess charts"
+  },
+  {
+    "id": "philly-be-muggy-2025-inq",
+    "title": "Philadelphia was quite muggy",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["heat", "humidity", "philadelphia", "pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/philly-be-muggy-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/cWPyh/?v=3",
+    "alt": "Philadelphia was quite muggy"
+  },
+  {
+    "id": "snowmap-dec-2025-inq",
+    "title": "Regional snowfall totals",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["snow", "new-jersey-pennsylvania", "new-york"],
+    "image": "http://sstirling.github.io/graphics/img/snowmap-dec-2025-inq.png",
+    "interactive": "https://www.datawrapper.de/_/Fjtvf/?v=2",
+    "alt": "Regional snowfall totals"
+  }
+]
