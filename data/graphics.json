@@ -150,16 +150,6 @@
     "alt": "Jones Road Fire before and after"
   },
   {
-    "id": "fireworks-search-2022-fl",
-    "title": "Search for fireworks",
-    "year": 2022,
-    "category": "recreation",
-    "tags": ["fireworks", "new-jersey"],
-    "image": "http://sstirling.github.io/graphics/img/fireworks-search-2022-fl.png",
-    "interactive": "https://public.flourish.studio/visualisation/10379175/",
-    "alt": "Search for fireworks"
-  },
-  {
     "id": "regional-vaccine-tracker-2021-fl",
     "title": "Regional vaccine tracker",
     "year": 2021,
@@ -215,7 +205,7 @@
     "year": 2020,
     "category": "covid",
     "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
-    "image": "http://sstirling.github.io/graphics/img/covid-19-case-tracker-2020.png",
+    "image": "http://sstirling.github.io/graphics/img/covid-19-case-tracker-2020-fl.png",
     "interactive": "https://public.flourish.studio/visualisation/1509635/",
     "alt": "Covid-19 case tracker map"
   },
@@ -225,19 +215,9 @@
     "year": 2020,
     "category": "covid",
     "tags": ["pandemic", "new-jersey", "pennsylvania", "new-york"],
-    "image": "http://sstirling.github.io/graphics/img/covid-19-local-services-tracker-2020.png",
+    "image": "http://sstirling.github.io/graphics/img/covid-19-local-services-tracker-2020-fl.png",
     "interactive": "https://public.flourish.studio/visualisation/1524175/",
     "alt": "Covid-19 local services tracker"
-  },
-  {
-    "id": "Jimmys-watering-hole-fire-2023-fl",
-    "title": "Jimmy's Watering Hole Fire before/after",
-    "year": 2023,
-    "category": "wildfire",
-    "tags": ["jimmys-watering-hole-fire", "new-jersey"],
-    "image": "http://sstirling.github.io/graphics/img/Jimmys-watering-hole-fire-2023-fl.png",
-    "interactive": "https://public.flourish.studio/visualisation/13403958/",
-    "alt": "Jimmy's Watering Hole Fire before/after"
   },
   {
     "id": "property-tax-changes-2023-fl",
