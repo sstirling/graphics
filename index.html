@@ -3,58 +3,29 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Graphics Wall</title>
-  <meta name="description" content="A wall of charts & maps (static previews → interactive when available)" />
+  <title>SStirling graphic wall</title>
+  <meta name="description" content="SStirling graphic wall — a tiled gallery of charts and maps." />
   <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
 <body>
   <header class="topbar">
     <div class="brand">
-      <h1>Graphics</h1>
-      <p class="sub">A wall of charts & maps (static previews → interactive when available)</p>
+      <h1>SStirling graphic wall</h1>
     </div>
 
     <div class="controls">
-      <input id="q" type="search" placeholder="Search title/tags/category…" autocomplete="off" />
-
-      <div class="filters">
-        <div class="filter-label">Categories</div>
-        <div id="catbar" class="tagbar"></div>
-      </div>
-
-      <div class="filters">
-        <div class="filter-label">Tags</div>
-        <div id="tagbar" class="tagbar"></div>
-      </div>
-
-      <div class="hint">
-        Tip: click a tile to preview. If an interactive link exists, open it from the lightbox.
-      </div>
+      <input
+        id="q"
+        type="search"
+        placeholder="Search (title, tags, category)…"
+        autocomplete="off"
+      />
     </div>
   </header>
 
   <main>
     <section id="grid" class="masonry" aria-label="Graphics gallery"></section>
   </main>
-
-  <!-- Lightbox -->
-  <div id="lightbox" class="lightbox" aria-hidden="true">
-    <button class="lb-close" id="lbClose" aria-label="Close">×</button>
-
-    <div class="lb-body" role="dialog" aria-modal="true" aria-label="Graphic preview">
-      <img id="lbImg" alt="" />
-
-      <div class="lb-meta">
-        <h2 id="lbTitle"></h2>
-        <p id="lbTags"></p>
-
-        <div class="lb-actions">
-          <a id="lbInteractive" class="btn" target="_blank" rel="noopener">Open interactive ↗</a>
-          <a id="lbDownload" class="btn secondary" target="_blank" rel="noopener">Open image ↗</a>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <script src="assets/js/app.js"></script>
 </body>
