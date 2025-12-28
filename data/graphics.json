@@ -220,16 +220,6 @@
     "alt": "Covid-19 local services tracker"
   },
   {
-    "id": "Jimmys-watering-hole-fire-2023-fl",
-    "title": "Jimmy's Watering Hole Fire before/after",
-    "year": 2023,
-    "category": "wildfire",
-    "tags": ["jimmys-watering-hole-fire", "new-jersey"],
-    "image": "http://sstirling.github.io/graphics/img/jimmys-watering-hole-fire-2023-fl.png",
-    "interactive": "https://public.flourish.studio/visualisation/13403958/",
-    "alt": "Jimmy's Watering Hole Fire before/after"
-  },
-  {
     "id": "property-tax-changes-2023-fl",
     "title": "Property tax changes in NJ",
     "year": 2023,
