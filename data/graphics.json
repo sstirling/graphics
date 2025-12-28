@@ -558,5 +558,25 @@
     "image": "http://sstirling.github.io/graphics/img/snowfall-totals-philly-2024-inq.png",
     "interactive": "https://www.datawrapper.de/_/NVFti/?v=5",
     "alt": "Snowfall in Philly region"
+  },
+    {
+    "id": "nj-dots-by-race-2025",
+    "title": "NJ Dot Map",
+    "year": 2025,
+    "category": "demographics",
+    "tags": ["new-jersey"],
+    "image": "http://sstirling.github.io/graphics/img/nj-dots-by-race-2025.png",
+    "interactive": "",
+    "alt": "NJ dot map"
+  },
+  {
+    "id": "pa-dots-by-race-2025",
+    "title": "Pa. dot map",
+    "year": 2025,
+    "category": "demographics",
+    "tags": ["pennsylvania"],
+    "image": "http://sstirling.github.io/graphics/img/pa-dots-by-race-2025.png",
+    "interactive": "",
+    "alt": "Pa. dot map"
   }
 ]
