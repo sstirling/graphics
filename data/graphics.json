@@ -578,5 +578,65 @@
     "image": "http://sstirling.github.io/graphics/img/pa-dots-by-race-2025.png",
     "interactive": "",
     "alt": "Pa. dot map"
+  },
+      {
+    "id": "nj-annual-average-temps-2019-njam",
+    "title": "NJ Average Temps",
+    "year": 2019,
+    "category": "climate",
+    "tags": ["new-jersey, heat"],
+    "image": "http://sstirling.github.io/graphics/img/nj-annual-average-temps-2019-njam.png",
+    "interactive": "https://www.datawrapper.de/_/zmknT/",
+    "alt": "NJ Average Temps"
+  },
+  {
+    "id": "njt-delays-vs-lirr-2019-njam",
+    "title": "NJT vs. LIRR",
+    "year": 2019,
+    "category": "transportation",
+    "tags": ["new-jersey, nj-transit, lirr"],
+    "image": "http://sstirling.github.io/graphics/img/njt-delays-vs-lirr-2019-njam.png",
+    "interactive": "https://public.flourish.studio/visualisation/477716/?utm_source=embed&utm_campaign=visualisation/477716",
+    "alt": "NJT vs. LIRR"
+  },
+        {
+    "id": "911-fund-pennies-2016-njam",
+    "title": "Bilking the 911 fund",
+    "year": 2016,
+    "category": "taxes",
+    "tags": ["new-jersey, 911, budgets"],
+    "image": "http://sstirling.github.io/graphics/img/911-fund-pennies-2016-njam.png",
+    "interactive": "https://s3.amazonaws.com/nj-data/d3-tests/mobile-sort-grid/sortgridv2mobile.html",
+    "alt": "Bilking the 911 fund"
+  },
+  {
+    "id": "one-diocese-decades-of-abuse-2019-njam",
+    "title": "One diocese, decades of abuse",
+    "year": 2019,
+    "category": "religion",
+    "tags": ["new-jersey, catholicism"],
+    "image": "http://sstirling.github.io/graphics/img/one-diocese-decades-of-abuse-2019-njam.png",
+    "interactive": "https://www.datawrapper.de/_/zkVef/",
+    "alt": "One diocese, decades of abuse"
+  },
+          {
+    "id": "use-of-force-race-2019-njam",
+    "title": "Use of force by department",
+    "year": 2019,
+    "category": "police",
+    "tags": ["new-jersey, use-of-force, police"],
+    "image": "http://sstirling.github.io/graphics/img/use-of-force-race-2019-njam.png",
+    "interactive": "",
+    "alt": "Use of force by department"
+  },
+  {
+    "id": "who-owns-the-shore-2019-njam",
+    "title": "Who owns the Shore?",
+    "year": 2019,
+    "category": "real estate",
+    "tags": ["new-jersey, shore"],
+    "image": "http://sstirling.github.io/graphics/img/who-owns-the-shore-2019-njam.png",
+    "interactive": "",
+    "alt": "Who owns the Shore?"
   }
 ]
