@@ -390,16 +390,6 @@
     "alt": "Water flow tracking"
   },
   {
-    "id": "pssa-scores-pa-2024-inq",
-    "title": "PSSA scores over time",
-    "year": 2024,
-    "category": "education",
-    "tags": ["PSSA", "pennsylvania"],
-    "image": "http://sstirling.github.io/graphics/img/pssa-scores-pa-2024-inq.png",
-    "interactive": "https://www.datawrapper.de/_/fLkjA/?v=2",
-    "alt": "PSSA scores over time"
-  },
-  {
     "id": "trump-terminated-grants-philly-region-2025-inq",
     "title": "Terminated grants in Philly region",
     "year": 2025,
