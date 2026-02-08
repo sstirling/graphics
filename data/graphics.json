@@ -1,23 +1,43 @@
 [
   {
-    "id": "mlb-payroll-2025-ss",
-    "title": "WS winners with below avg. salary",
-    "year": 2025,
-    "category": "sports",
-    "tags": ["mlb", "salaries"],
-    "image": "http://sstirling.github.io/graphics/img/mlb-payroll-2025-ss.png",
-    "interactive": "https://datawrapper.dwcdn.net/pS5Sh/1/",
-    "alt": "WS winners with below avg. salary"
+    "id": "national-snow-map-2026-ss",
+    "title": "Updating National Snow Map",
+    "year": 2026,
+    "category": "weather",
+    "tags": ["new-jersey", "pennsylvania", "snow"],
+    "image": "http://sstirling.github.io/graphics/img/national-snow-map-2026.png",
+    "interactive": "hhttps://sstirling.github.io/nws-snowfall-forecast/national.html",
+    "alt": "Updating snow forecasts"
   },
   {
-    "id": "snow-table-2025-ss",
-    "title": "Snowfall forecasts in a table format",
+    "id": "phlight-alerts-2025-ss",
+    "title": "Tracking PHL",
     "year": 2025,
+    "category": "travel",
+    "tags": ["philadelphia", "pennsylvania", "airport"],
+    "image": "http://sstirling.github.io/graphics/img/phlight-alerts-2025.png",
+    "interactive": "https://www.inquirer.com/news/philadelphia-international-airport-flight-delays-thanksgiving-20251125.html",
+    "alt": "Updating PHL statistics"
+  },
+  {
+    "id": "snow-totals-2026-ss",
+    "title": "Regional snow totals search",
+    "year": 2026,
     "category": "weather",
-    "tags": ["snow"],
-    "image": "http://sstirling.github.io/graphics/img/snow-table-2025-ss.png",
-    "interactive": "https://datawrapper.dwcdn.net/W1865/1/",
-    "alt": "Snowfall forecasts in a table format"
+    "tags": ["new-jersey", "pennsylvania", "snow"],
+    "image": "http://sstirling.github.io/graphics/img/snow-totals-2026.png",
+    "interactive": "https://sstirling.github.io/snow-points/",
+    "alt": "Regional snow totals search"
+  },
+  {
+    "id": "wind-chill-map-2026-ss",
+    "title": "National, updating wind chill",
+    "year": 2026,
+    "category": "weather",
+    "tags": ["new-jersey", "pennsylvania", "snow"],
+    "image": "http://sstirling.github.io/graphics/img/wind-chill-map-2026.png",
+    "interactive": "https://sstirling.github.io/wind-chill-map/",
+    "alt": "Updating wind chill map"
   },
   {
     "id": "garden-table-2025-ss",
@@ -48,6 +68,16 @@
     "image": "http://sstirling.github.io/graphics/img/extreme-heat-2025-ss.png",
     "interactive": "https://datawrapper.dwcdn.net/hq6nV/1/",
     "alt": "Extreme heat forecast for multiple locations"
+  },
+  {
+    "id": "mlb-payroll-2025-ss",
+    "title": "WS winners with below avg. salary",
+    "year": 2025,
+    "category": "sports",
+    "tags": ["mlb", "salaries"],
+    "image": "http://sstirling.github.io/graphics/img/mlb-payroll-2025-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/pS5Sh/1/",
+    "alt": "WS winners with below avg. salary"
   },
   {
     "id": "gritty-rankings-2024-ss",
@@ -158,6 +188,16 @@
     "image": "http://sstirling.github.io/graphics/img/regional-vaccine-tracker-2021-fl.png",
     "interactive": "https://public.flourish.studio/visualisation/4847265/",
     "alt": "Regional vaccine tracker"
+  },
+    {
+    "id": "snow-table-2025-ss",
+    "title": "Snowfall forecasts in a table format",
+    "year": 2025,
+    "category": "weather",
+    "tags": ["snow"],
+    "image": "http://sstirling.github.io/graphics/img/snow-table-2025-ss.png",
+    "interactive": "https://datawrapper.dwcdn.net/W1865/1/",
+    "alt": "Snowfall forecasts in a table format"
   },
   {
     "id": "covid-hospitalizations-2021",
